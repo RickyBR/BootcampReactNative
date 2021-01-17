@@ -1,8 +1,8 @@
 function range(x,y){
   
-    var a = [];
+    var a = [];s
     if(x < y ){
-
+        
     for(i = x ; i <= y;i++){
         a.push(i)
     } 
